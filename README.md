@@ -5,6 +5,6 @@ To execute this program, you must have installed Python3 interpreter.
 
 ### This is the basic look of the program.
 
-! [No se ha encontrado la imagen] [screenshot]
-
-[screenshot]: /ProductManager/resources/screenshot.png
+![screenshot]
+ 
+[screenshot]: https://raw.githubusercontent.com/hectorxlxs/ProductManager/master/resources/screenshot.png
